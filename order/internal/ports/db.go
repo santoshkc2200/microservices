@@ -3,7 +3,7 @@ package ports
 import (
 	"context"
 
-	"github.com/santoshkc2200/microservices/order/internal/application/core/domain"
+	"gitHub.com/santoshkc2200/microservices/order/internal/application/core/domain"
 )
 
 type DBPort interface {
