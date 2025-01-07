@@ -49,6 +49,8 @@ github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/huseyinbabal/microservices-proto/golang/order v1.0.39 h1:Pf6LLNR74T6IeOuD4SKYZhIp5g/aUQtJ3/p1BNTJ/Gg=
 github.com/huseyinbabal/microservices-proto/golang/order v1.0.39/go.mod h1:ceL4ikmHI9/RWKqTvAZIsHqe8+np9v37TL5/gsSQBmU=
+github.com/huseyinbabal/microservices-proto/golang/payment v1.0.39 h1:kMcY2qpQ5S/nHrUnaj7+6KfHkLopPA7reTjlx46qnko=
+github.com/huseyinbabal/microservices-proto/golang/payment v1.0.39/go.mod h1:PEPOtCFm8n9DJnxWdYntsFCXNq+ZnqnjyPS+C51YrfE=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
 github.com/jinzhu/inflection v1.0.0/go.mod h1:h+uFLlag+Qp1Va5pdKtLDYj+kHp5pxUVkryuEj+Srlc=
 github.com/jinzhu/now v1.1.5 h1:/o9tlHleP7gOFmsnYNz3RGnqzefHA47wQpKrrdTIwXQ=

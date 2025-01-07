@@ -7,6 +7,7 @@ require (
 	github.com/go-sql-driver/mysql v1.8.1 // indirect
 	github.com/golang/protobuf v1.5.0 // indirect
 	github.com/huseyinbabal/microservices-proto/golang/order v1.0.39 // indirect
+	github.com/huseyinbabal/microservices-proto/golang/payment v1.0.39
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
 	golang.org/x/net v0.0.0-20200822124328-c89045814202 // indirect
