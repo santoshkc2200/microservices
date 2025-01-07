@@ -37,6 +37,4 @@ func (a Adapter) Run() {
 	if err := grpcServer.Serve(listen); err != nil {
 		log.Fatalf("failed to serve grpc on port ")
 	}
-	log.Printf("starting order service on port %d ...", a.port)
-
-}
+	lo

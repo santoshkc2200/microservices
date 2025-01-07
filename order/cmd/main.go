@@ -15,11 +15,4 @@ func main() {
 	if err != nil {
 		log.Fatalf("Failed to connect to database. Error: %v", err)
 	}
-	paymentAdapter, paymentError := payment.NewAdapter(config.GetPaymentServiceUrl())
-	if paymentError != nil {
-		log.Fatalf("Failed to initialize payment stub. Error:  %v", paymentError)
-	}
-	application := api.NewApplication(dbAdapter, paymentAdapter)
-	grpcAdapter := grpc.NewAdapter(application, config.GetApplicationPort())
-	grpcAdapter.Run()
-}
+	paymentAdapter, paymentError := payment.NewAdapter(config.GetPayme
